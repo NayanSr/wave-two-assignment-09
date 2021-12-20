@@ -1,0 +1,23 @@
+.aa{
+    border: 5px solid green;
+   margin: 10px 20px;
+   border-radius: 25px;
+   background-color: rgb(15, 15, 15);
+   position: relative;
+}
+.aa img{
+    border-radius: 25px;
+    margin-top: 7px;
+    width: 97%;
+    height: 97%;
+}
+.text-block {
+    border-radius: 20px;
+    position: absolute;
+    bottom: 80%;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.172);
+    color: #273c1f;
+    padding-left: 30px;
+    padding-right: 30px;
+  }

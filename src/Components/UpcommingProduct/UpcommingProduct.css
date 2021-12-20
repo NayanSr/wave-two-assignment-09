@@ -1,0 +1,21 @@
+.upcomming-product{
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 20px 15px;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: rgb(44, 9, 9);
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.image{
+    width: 60%;
+    height: 75%;
+    border-radius: 20px;
+}

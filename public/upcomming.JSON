@@ -1,0 +1,30 @@
+[
+    {
+        "id": "u1",
+        "name": "Curved Treadmill",
+        "model": "SH-T901Z",
+        "description": "The ergonomic design of the curved treadmill , which provides the solutionfor alignment correction of the ankles, knees, hips and back, enables usersto keep natural position at all times and avoid joint and knee stress, no matter what their height and weight are. ",
+        "image": "https://www.shuafitness.com/wp-content/uploads/2021/10/SH-T901Z-01.png"
+    },
+    {
+        "id": "u2",
+        "name": "Treadmill for Home",
+        "model": "SH-T3300",
+        "description": "The combination of powerful motor and premium shock absorption technology gives SHUA SH-T3300 treadmill’s capacity to provide quiet, effective and low impact exercise experience. It is built to last and withstand even the high-intensity workout.",
+        "image": "https://www.shuafitness.com/wp-content/uploads/2021/09/SH-T3300.jpg"
+    },
+    {
+        "id": "u3",
+        "name": "Treadmill for Home",
+        "model": "SH-T2100",
+        "description": "The refine design of SH-T2100 walking treadmill offers a quiet powerful motor with adjustable speeds, allowing trainers to enjoy a noiseless and immersive exercise experience. With advanced low impact technology, no knees injury while workout.",
+        "image": "https://www.shuafitness.com/wp-content/uploads/2021/09/SH-T2100.jpg"
+    },
+    {
+        "id": "u4",
+        "name": "Treadmill for Home",
+        "model": "SH-T5500&T5500A",
+        "description": "SHUA best SH-T5500&SH-T5500A treadmill carries out a new standard with a low impact running platform and a high-performance motor that make even the high-level intense runs feel comfortable, stable and smooth in different running environments. It is built to last with the high efficiency and great materials.",
+        "image": "https://www.shuafitness.com/wp-content/uploads/2021/09/SH-T5500.jpg"
+    }
+]
